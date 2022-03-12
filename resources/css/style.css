@@ -36,3 +36,11 @@ body {
   height: auto;
 }
 
+/* FOOTER */
+
+.link--cta {
+  font-size: 21px;
+  color: grey;
+  text-align: right;
+}
+
